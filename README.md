@@ -2,4 +2,4 @@
 
 ## Student Information
 * **Name:** Renz Raphael S. Destua
-* **Laboratory:** Laboratory 1 - Software Relevant Tools, Standards, and Code Versioning using Github
+* **Laboratory:** CPE106L-4_B3
